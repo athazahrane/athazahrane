@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
+
+.PRESTASI {
+    font-family: 'Caveat', cursive;
+    color:red; 
+    font-size: 50px;
+    font-weight: 20px;
+    height: 10px;
+    line-height: 10px;
+}
+
+.INSPIRASI {
+    font-family: 'Caveat', cursive;
+    color:red; 
+    font-size: 50px;
+    font-weight: 20px;
+    height: 10px;
+    line-height: 10px;
+}
+
+.PENDIDIKAN {
+    font-family: 'Caveat', cursive;
+    color:red; 
+    font-size: 50px;
+    font-weight: 20px;
+    height: 10px;
+    line-height: 10px;
+}
+
+.SKILLPASSPORT {
+    font-family: 'Caveat', cursive;
+    color:red; 
+    font-size: 50px;
+    font-weight: 20px;
+    height: 10px;
+    line-height: 10px;
+}
+
+
+
+#runningtext {
+    width: 100%;
+    height: 25px;
+    padding-top:7px;
+    margin: 5px 0 5px 0;
+    background-color:paleturquoise;
+    color: black;
+    /* posisition: relaxtife */
+
+
+}
+
+body {background-color: aqua;}
+h1 {background-color: snow;
+border: 5px dashed black}
+th {background-color:skyblue;}
+td {background-color: yellow;}
+td {background-color: yellow;}
+ol {background-color:wheat;}
+ul {background-color: springgreen;
+border: 5px none black;}
+
+.PRESTASI {
+    font-family: 'Caveat', cursive;
+    color:red; 
+    font-size: 100px;
+    font-weight: 100px;
+    height: 100px;
+    line-height: 30px;
+}
